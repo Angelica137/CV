@@ -6,7 +6,7 @@ I had wanted to become a developer for about a year before I came to Makers. I s
 
 I am thrilled I can now face a coding challenge with the knowledge I can solve it, and am now looking to become part of an organisation where I can make a positive, tangible contribution as a full-fledged software engineer.
 
-### There are some of the technologies I can use
+### These are some of the technologies I can use
 
 JavaScript, Python, Node.js, Express, socket.io, SQL, Postgres, MongoDB.
 Ruby on Rails, Sinatra, CSS HTML.
