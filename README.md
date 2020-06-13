@@ -13,11 +13,11 @@ Ruby on Rails, Sinatra, CSS HTML.
 
 ## Projects I have worked on
 
-| Project   | Description                                        | Time    | Technologies                                     | Github                                               | Live version                                       |
-| --------- | -------------------------------------------------- | ------- | ------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------------- |
-| WhatStack | An instant messaging app to help knowledge sharing | 2 weeks | MERN stack, socket.io, Jest, CSS, Sketch, Zeplin | [whatstack](https://github.com/FayeCarter/WhatStack) | [whatstack live](https://whatstack.herokuapp.com/) |
-|           |                                                    |         |                                                  |                                                      |                                                    |
-|           |                                                    |         |                                                  |                                                      |                                                    |
+| Project   | Description                                        | Time    | Technologies                                     | Github                                                            | Live version                                       |
+| --------- | -------------------------------------------------- | ------- | ------------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------- |
+| WhatStack | An instant messaging app to help knowledge sharing | 2 weeks | MERN stack, socket.io, Jest, CSS, Sketch, Zeplin | [whatstack](https://github.com/FayeCarter/WhatStack)              | [whatstack Live](https://whatstack.herokuapp.com/) |
+| Bank      | A simple banking app                               | 1 week  | JavaScript, Mocha, Chai, Babel, NYC              | [Bank](https://github.com/Angelica137/Bank)                       |                                                    |
+| BBMySpace | A facebook clone API connecting a React interface  | 2 weeks | Ruby on Rails, RSpec, React, CSS                 | [BBMySpace](https://github.com/hturnbull93/acebook-myspace-react) |                                                    |
 
 ## Skills
 
