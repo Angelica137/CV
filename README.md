@@ -13,11 +13,11 @@ Ruby on Rails, Sinatra, CSS HTML.
 
 ## Projects I have worked on
 
-| ### Project | ### Description                                    | ### Time | ### Technologies      | ### Github                                           | ### Live version                              |
-| ----------- | -------------------------------------------------- | -------- | --------------------- | ---------------------------------------------------- | --------------------------------------------- |
-| WhatStack   | An instant messaging app to help knowledge sharing | 2 weeks  | MERN stack, socket.io | [whatstack](https://github.com/FayeCarter/WhatStack) | [whatstack](https://whatstack.herokuapp.com/) |
-|             |                                                    |          |                       |                                                      |                                               |
-|             |                                                    |          |                       |                                                      |                                               |
+| Project   | Description                                        | Time    | Technologies          | Github                                               | Live version                                  |
+| --------- | -------------------------------------------------- | ------- | --------------------- | ---------------------------------------------------- | --------------------------------------------- |
+| WhatStack | An instant messaging app to help knowledge sharing | 2 weeks | MERN stack, socket.io | [whatstack](https://github.com/FayeCarter/WhatStack) | [whatstack](https://whatstack.herokuapp.com/) |
+|           |                                                    |         |                       |                                                      |                                               |
+|           |                                                    |         |                       |                                                      |                                               |
 
 ## Skills
 
@@ -43,19 +43,23 @@ In every project I have worked on, I needed to learn as much as I could about th
 
 ## Experience
 
-### Makers Academy (Feb 2020 - Jun 2020)
+### Makers Academy - Softwear Developer
+
+**(Feb 2020 - Jun 2020)**
 
 Makers Academy is one of Europe’s top programming boot camp offering 16-week immersive program covering professional web development technologies, OOP, TDD and pair programming.
 
-### Gousto (Nov 2019 - Jan 2020) UX designer
+### Gousto - UX designer
+
+**(Nov 2019 - Jan 2020)**
 
 Gousto is one of the UK’s leading recipe kit providers, on a mission to reduce food waste and make home cooking simple and enjoyable.
 
-### TotallyMoney (May 2019 - Nov 2019) UX designer
+### TotallyMoney **(May 2019 - Nov 2019)** UX designer
 
 TotallyMoney is an award-winning credit report provider and comparison website looking to make credit work better.
 
-### Financial Times (May 2018 - May 2019) UX designer
+### Financial Times \*\*(May 2018 - May 2019) UX designer
 
 The Financial Times is a leading international newspaper focusing on business and economic news.
 
