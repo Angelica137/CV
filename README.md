@@ -13,11 +13,11 @@ Ruby on Rails, Sinatra, CSS HTML.
 
 ## Projects I have worked on
 
-| Project   | Description                                        | Time    | Technologies          | Github                                               | Live version                                       |
-| --------- | -------------------------------------------------- | ------- | --------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| WhatStack | An instant messaging app to help knowledge sharing | 2 weeks | MERN stack, socket.io | [whatstack](https://github.com/FayeCarter/WhatStack) | [whatstack live](https://whatstack.herokuapp.com/) |
-|           |                                                    |         |                       |                                                      |                                                    |
-|           |                                                    |         |                       |                                                      |                                                    |
+| Project   | Description                                        | Time    | Technologies                                     | Github                                               | Live version                                       |
+| --------- | -------------------------------------------------- | ------- | ------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------------- |
+| WhatStack | An instant messaging app to help knowledge sharing | 2 weeks | MERN stack, socket.io, Jest, CSS, Sketch, Zeplin | [whatstack](https://github.com/FayeCarter/WhatStack) | [whatstack live](https://whatstack.herokuapp.com/) |
+|           |                                                    |         |                                                  |                                                      |                                                    |
+|           |                                                    |         |                                                  |                                                      |                                                    |
 
 ## Skills
 
