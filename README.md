@@ -55,19 +55,27 @@ Makers Academy is one of Europe’s top programming boot camp offering 16-week i
 
 Gousto is one of the UK’s leading recipe kit providers, on a mission to reduce food waste and make home cooking simple and enjoyable.
 
-### TotallyMoney **(May 2019 - Nov 2019)** UX designer
+### TotallyMoney - UX designer
+
+**(May 2019 - Nov 2019)**
 
 TotallyMoney is an award-winning credit report provider and comparison website looking to make credit work better.
 
-### Financial Times \*\*(May 2018 - May 2019) UX designer
+### Financial Times - UX designer
+
+**(May 2018 - May 2019)**
 
 The Financial Times is a leading international newspaper focusing on business and economic news.
 
-### LifeWorks (Apr 2017 - May 2018) UX designer
+### LifeWorks - UX designer
+
+**(Apr 2017 - May 2018)**
 
 LifeWorks is a provider of health and wellbeing solutions as well as a fully integrated EAP and work‑life services, with clients across the UK, US and Canada.
 
-### IFDS (Nov 2015 - Mar 2017) UX designer
+### IFDS - UX designer
+
+**(Nov 2015 - Mar 2017)**
 
 IFDS (now DST) is the world’s lead provider of services to institutional investors and part of the largest administration and technology outsourcing provider in the UK, US and Canada.
 
